@@ -1,7 +1,7 @@
-# Let's compile the Jupyter Notebook content into a single file with appropriate structure and code cells.
+
 from nbformat import v4 as nbf
 
-# Create a new notebook
+# new notebook
 nb = nbf.new_notebook()
 
 # Title and introduction
